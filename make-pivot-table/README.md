@@ -3,7 +3,7 @@
 ## Prerequisites
 
 1. Install Anaconda
-* [Anaconda For Windows / Python 2.7 64-bit version] (https://www.continuum.io/downloads#windows)
+* [Anaconda For Windows / Python 2.7 64-bit version](https://www.continuum.io/downloads#windows)
 
 ## How to run command
 * Run Anaconda Prompt
